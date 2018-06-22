@@ -24,7 +24,6 @@
 }
 - (IBAction)show:(id)sender {
     
-    //这是一个例子
     //PickerView每一列显示的数据
     NSArray *array = @[@"网页",@"新闻",@"贴吧",@"文章"];
     NSArray *array1 = @[@"音乐",@"图片",@"视频",@"摄像"];
