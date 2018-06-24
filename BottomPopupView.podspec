@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BottomPopupView"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "简介"
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Classes", "GitHub/BottomPopupView/BottomPopupView/PickerView/**/*.{h,m}"
+  s.source_files  = "Classes", "BottomPopupView/BottomPopupView/PickerView/**/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
@@ -106,7 +106,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  s.resources = "GitHub/BottomPopupView/BottomPopupView/PickerView/*.png"
+  s.resources = "BottomPopupView/BottomPopupView/PickerView/*.png"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
